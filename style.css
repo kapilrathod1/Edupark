@@ -105,15 +105,11 @@ span a {
     background: linear-gradient(to right, #4A00E0, #8E2DE2);
     border: none;
     border-radius: 5px;
-    transition: all ease-in-out 0.3s;
+    transition: all ease-in-out 0.s;
     font-size: 15px;
 }
 .login-btn:hover{
 font-size: 18px;
-/* color: #4A00E0; */
-border: 5px solid #ffffff;
-border-radius: 25px;
-/* background: none; */
 }
 
 .sign-btn {
@@ -122,7 +118,7 @@ border-radius: 25px;
     height: 45px;
     border: 1px solid rgb(0, 0, 0, 0.3);
     border-radius: 5px;
-    transition: all ease-in-out 0.3s;
+    transition: all ease-in-out 0.1s;
     background-color: #fff;
 }
 .sign-btn:hover{
